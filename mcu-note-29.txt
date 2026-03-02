@@ -1,0 +1,1 @@
+Commit #29: MARVEL: Fix CGI for Hulk's powers. It is in Thor!
